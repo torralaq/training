@@ -9,11 +9,11 @@
       "date": "January 28, 2022",
       "time": "12:00",
       "organizer": "Kat Laydee",
-    "pets": 1,
-    "extras": {
-      "catering": true,
-      "music": true
-    }    
+      "pets": 1,
+      "extras": {
+         "catering": true,
+         "music": true
+      }
     },
     {
       "id": 456,
@@ -24,11 +24,11 @@
       "date": "March 14, 2022",
       "time": "10:00",
       "organizer": "Fern Pollin",
-    "pets": 1,
-    "extras": {
-      "catering": true,
-      "music": true
-    }    
+      "pets": 0,
+      "extras": {
+         "catering": true,
+         "music": false
+      }
     },
     {
       "id": 789,
@@ -39,11 +39,11 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales",
-    "pets": 1,
-    "extras": {
-      "catering": true,
-      "music": true
-    }    
+      "pets": 0,
+      "extras": {
+         "catering": false,
+         "music": true
+      }
     }
   ]
 }
