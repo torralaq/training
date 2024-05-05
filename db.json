@@ -23,7 +23,12 @@
       "location": "Flora City",
       "date": "March 14, 2022",
       "time": "10:00",
-      "organizer": "Fern Pollin"
+      "organizer": "Fern Pollin",
+    "pets": 1,
+    "extras": {
+      "catering": true,
+      "music": true
+    }
     },
     {
       "id": 789,
@@ -33,7 +38,12 @@
       "location": "Playa Del Carmen",
       "date": "July 22, 2022",
       "time": "11:00",
-      "organizer": "Carey Wales"   
+      "organizer": "Carey Wales",
+    "pets": 1,
+    "extras": {
+      "catering": true,
+      "music": true
+    }
     }
   ]
 }
