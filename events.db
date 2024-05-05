@@ -8,12 +8,7 @@
       "location": "Meow Town",
       "date": "January 28, 2022",
       "time": "12:00",
-      "organizer": "Kat Laydee",
-      "pets": 1,
-      "extras": {
-        "catering": true,
-        "music": true
-      }
+      "organizer": "Kat Laydee"
     },
     {
       "id": 456,
@@ -23,12 +18,7 @@
       "location": "Flora City",
       "date": "March 14, 2022",
       "time": "10:00",
-      "organizer": "Fern Pollin",
-      "pets": 0,
-      "extras": {
-        "catering": false,
-        "music": true
-      }
+      "organizer": "Fern Pollin"
     },
     {
       "id": 789,
@@ -38,12 +28,7 @@
       "location": "Playa Del Carmen",
       "date": "July 22, 2022",
       "time": "11:00",
-      "organizer": "Carey Wales",
-      "pets": 0,
-      "extras": {
-        "catering": false,
-        "music": false
-      }
+      "organizer": "Carey Wales"
     }
   ]
 }
